@@ -1,3 +1,4 @@
+基于头条新闻数据的分类尝试
 0. 解压数据集 news.zip到data/
 1. 安装依赖：pip install -r requirements.txt
 2. 训练模型：如果model文件夹为空先运行 python train.py
